@@ -1,0 +1,5 @@
+c:\users\gerryo\documents\visual studio 2012\Projects\working_with_for_loops\working_with_for_loops\bin\Debug\working_with_for_loops.exe.config
+c:\users\gerryo\documents\visual studio 2012\Projects\working_with_for_loops\working_with_for_loops\bin\Debug\working_with_for_loops.exe
+c:\users\gerryo\documents\visual studio 2012\Projects\working_with_for_loops\working_with_for_loops\bin\Debug\working_with_for_loops.pdb
+c:\users\gerryo\documents\visual studio 2012\Projects\working_with_for_loops\working_with_for_loops\obj\Debug\working_with_for_loops.exe
+c:\users\gerryo\documents\visual studio 2012\Projects\working_with_for_loops\working_with_for_loops\obj\Debug\working_with_for_loops.pdb

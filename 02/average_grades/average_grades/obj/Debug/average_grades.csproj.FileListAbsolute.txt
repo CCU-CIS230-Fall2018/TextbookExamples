@@ -1,0 +1,5 @@
+c:\users\gerryo\documents\visual studio 2012\Projects\average_grades\average_grades\bin\Debug\average_grades.exe.config
+c:\users\gerryo\documents\visual studio 2012\Projects\average_grades\average_grades\bin\Debug\average_grades.exe
+c:\users\gerryo\documents\visual studio 2012\Projects\average_grades\average_grades\bin\Debug\average_grades.pdb
+c:\users\gerryo\documents\visual studio 2012\Projects\average_grades\average_grades\obj\Debug\average_grades.exe
+c:\users\gerryo\documents\visual studio 2012\Projects\average_grades\average_grades\obj\Debug\average_grades.pdb

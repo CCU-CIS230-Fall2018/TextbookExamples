@@ -1,0 +1,5 @@
+c:\users\gerryo\documents\visual studio 2012\Projects\lottery_program\lottery_program\bin\Debug\lottery_program.exe.config
+c:\users\gerryo\documents\visual studio 2012\Projects\lottery_program\lottery_program\bin\Debug\lottery_program.exe
+c:\users\gerryo\documents\visual studio 2012\Projects\lottery_program\lottery_program\bin\Debug\lottery_program.pdb
+c:\users\gerryo\documents\visual studio 2012\Projects\lottery_program\lottery_program\obj\Debug\lottery_program.exe
+c:\users\gerryo\documents\visual studio 2012\Projects\lottery_program\lottery_program\obj\Debug\lottery_program.pdb

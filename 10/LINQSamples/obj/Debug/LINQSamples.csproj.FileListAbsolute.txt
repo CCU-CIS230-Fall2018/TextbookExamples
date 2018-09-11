@@ -1,0 +1,12 @@
+c:\users\vince varallo\documents\visual studio 11\Projects\LINQSamples\LINQSamples\bin\Debug\LINQSamples.exe.config
+C:\Users\Vince Varallo\Documents\Visual Studio 11\Projects\LINQSamples\LINQSamples\bin\Debug\LINQSamples.exe
+C:\Users\Vince Varallo\Documents\Visual Studio 11\Projects\LINQSamples\LINQSamples\bin\Debug\LINQSamples.pdb
+C:\Users\Vince Varallo\Documents\Visual Studio 11\Projects\LINQSamples\LINQSamples\obj\Debug\LINQSamples.csprojResolveAssemblyReference.cache
+C:\Users\Vince Varallo\Documents\Visual Studio 11\Projects\LINQSamples\LINQSamples\obj\Debug\LINQSamples.exe
+C:\Users\Vince Varallo\Documents\Visual Studio 11\Projects\LINQSamples\LINQSamples\obj\Debug\LINQSamples.pdb
+C:\Wrox\Exam 70-483\Code\Chapter10\LINQSamples\bin\Debug\LINQSamples.exe.config
+C:\Wrox\Exam 70-483\Code\Chapter10\LINQSamples\obj\Debug\LINQSamples.exe
+C:\Wrox\Exam 70-483\Code\Chapter10\LINQSamples\obj\Debug\LINQSamples.pdb
+C:\Wrox\Exam 70-483\Code\Chapter10\LINQSamples\bin\Debug\LINQSamples.exe
+C:\Wrox\Exam 70-483\Code\Chapter10\LINQSamples\bin\Debug\LINQSamples.pdb
+C:\Wrox\Exam 70-483\Code\Chapter10\LINQSamples\obj\Debug\LINQSamples.csprojResolveAssemblyReference.cache

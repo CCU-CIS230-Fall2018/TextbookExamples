@@ -1,0 +1,2 @@
+c:\users\gerryo\documents\visual studio 2012\Projects\value_type_alias\value_type_alias\bin\Debug\value_type_alias.exe.config
+c:\users\gerryo\documents\visual studio 2012\Projects\value_type_alias\value_type_alias\obj\Debug\value_type_alias.csprojResolveAssemblyReference.cache

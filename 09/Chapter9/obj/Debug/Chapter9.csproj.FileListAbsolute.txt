@@ -1,0 +1,6 @@
+C:\Wrox\Exam 70-483\Code\Chapter9\Chapter9\bin\Debug\Chapter9.exe.config
+C:\Wrox\Exam 70-483\Code\Chapter9\Chapter9\bin\Debug\Chapter9.exe
+C:\Wrox\Exam 70-483\Code\Chapter9\Chapter9\bin\Debug\Chapter9.pdb
+C:\Wrox\Exam 70-483\Code\Chapter9\Chapter9\obj\Debug\Chapter9.exe
+C:\Wrox\Exam 70-483\Code\Chapter9\Chapter9\obj\Debug\Chapter9.pdb
+C:\Wrox\Exam 70-483\Code\Chapter9\Chapter9\obj\Debug\Chapter9.csprojResolveAssemblyReference.cache

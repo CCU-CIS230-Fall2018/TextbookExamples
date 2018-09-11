@@ -1,0 +1,5 @@
+c:\users\gerry\documents\visual studio 2012\Projects\value_type_passing\value_type_passing\bin\Debug\value_type_passing.exe.config
+c:\users\gerry\documents\visual studio 2012\Projects\value_type_passing\value_type_passing\bin\Debug\value_type_passing.exe
+c:\users\gerry\documents\visual studio 2012\Projects\value_type_passing\value_type_passing\bin\Debug\value_type_passing.pdb
+c:\users\gerry\documents\visual studio 2012\Projects\value_type_passing\value_type_passing\obj\Debug\value_type_passing.exe
+c:\users\gerry\documents\visual studio 2012\Projects\value_type_passing\value_type_passing\obj\Debug\value_type_passing.pdb

@@ -1,0 +1,5 @@
+c:\users\gerry\documents\visual studio 2012\Projects\student_class\student_class\bin\Debug\student_class.exe.config
+c:\users\gerry\documents\visual studio 2012\Projects\student_class\student_class\bin\Debug\student_class.exe
+c:\users\gerry\documents\visual studio 2012\Projects\student_class\student_class\bin\Debug\student_class.pdb
+c:\users\gerry\documents\visual studio 2012\Projects\student_class\student_class\obj\Debug\student_class.exe
+c:\users\gerry\documents\visual studio 2012\Projects\student_class\student_class\obj\Debug\student_class.pdb

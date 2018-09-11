@@ -1,0 +1,9 @@
+C:\Wrox\Exam 70-483\Code\Chapter9\FileIOAsync\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Wrox\Exam 70-483\Code\Chapter9\FileIOAsync\obj\Debug\WindowsFormsApplication2.exe
+C:\Wrox\Exam 70-483\Code\Chapter9\FileIOAsync\obj\Debug\WindowsFormsApplication2.pdb
+C:\Wrox\Exam 70-483\Code\Chapter9\FileIOAsync\bin\Debug\WindowsFormsApplication2.exe
+C:\Wrox\Exam 70-483\Code\Chapter9\FileIOAsync\bin\Debug\WindowsFormsApplication2.pdb
+C:\Wrox\Exam 70-483\Code\Chapter9\FileIOAsync\obj\Debug\FileIOAsync.csprojResolveAssemblyReference.cache
+C:\Wrox\Exam 70-483\Code\Chapter9\FileIOAsync\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Wrox\Exam 70-483\Code\Chapter9\FileIOAsync\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Wrox\Exam 70-483\Code\Chapter9\FileIOAsync\obj\Debug\FileIOAsync.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+c:\users\gerry\documents\visual studio 2012\Projects\accessing_properties\accessing_properties\bin\Debug\accessing_properties.exe.config
+c:\users\gerry\documents\visual studio 2012\Projects\accessing_properties\accessing_properties\bin\Debug\accessing_properties.exe
+c:\users\gerry\documents\visual studio 2012\Projects\accessing_properties\accessing_properties\bin\Debug\accessing_properties.pdb
+c:\users\gerry\documents\visual studio 2012\Projects\accessing_properties\accessing_properties\obj\Debug\accessing_properties.exe
+c:\users\gerry\documents\visual studio 2012\Projects\accessing_properties\accessing_properties\obj\Debug\accessing_properties.pdb

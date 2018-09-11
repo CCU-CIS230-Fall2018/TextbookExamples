@@ -1,0 +1,5 @@
+C:\Wrox\Exam 70-483\Code\Chapter8\Chapter8\bin\Debug\Chapter8.exe.config
+C:\Wrox\Exam 70-483\Code\Chapter8\Chapter8\bin\Debug\Chapter8.exe
+C:\Wrox\Exam 70-483\Code\Chapter8\Chapter8\bin\Debug\Chapter8.pdb
+C:\Wrox\Exam 70-483\Code\Chapter8\Chapter8\obj\Debug\Chapter8.exe
+C:\Wrox\Exam 70-483\Code\Chapter8\Chapter8\obj\Debug\Chapter8.pdb

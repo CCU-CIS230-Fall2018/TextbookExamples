@@ -1,0 +1,5 @@
+c:\users\gerryo\documents\visual studio 2012\Projects\using_value_types\using_value_types\bin\Debug\using_value_types.exe.config
+c:\users\gerryo\documents\visual studio 2012\Projects\using_value_types\using_value_types\bin\Debug\using_value_types.exe
+c:\users\gerryo\documents\visual studio 2012\Projects\using_value_types\using_value_types\bin\Debug\using_value_types.pdb
+c:\users\gerryo\documents\visual studio 2012\Projects\using_value_types\using_value_types\obj\Debug\using_value_types.exe
+c:\users\gerryo\documents\visual studio 2012\Projects\using_value_types\using_value_types\obj\Debug\using_value_types.pdb

@@ -1,0 +1,5 @@
+c:\users\gerry\documents\visual studio 2012\Projects\using_properties\using_properties\bin\Debug\using_properties.exe.config
+c:\users\gerry\documents\visual studio 2012\Projects\using_properties\using_properties\bin\Debug\using_properties.exe
+c:\users\gerry\documents\visual studio 2012\Projects\using_properties\using_properties\bin\Debug\using_properties.pdb
+c:\users\gerry\documents\visual studio 2012\Projects\using_properties\using_properties\obj\Debug\using_properties.exe
+c:\users\gerry\documents\visual studio 2012\Projects\using_properties\using_properties\obj\Debug\using_properties.pdb

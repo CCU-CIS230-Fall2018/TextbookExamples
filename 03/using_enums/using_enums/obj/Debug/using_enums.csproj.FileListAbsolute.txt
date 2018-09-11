@@ -1,0 +1,6 @@
+c:\users\gerry\documents\visual studio 2012\Projects\using_enums\using_enums\bin\Debug\using_enums.exe.config
+c:\users\gerry\documents\visual studio 2012\Projects\using_enums\using_enums\bin\Debug\using_enums.exe
+c:\users\gerry\documents\visual studio 2012\Projects\using_enums\using_enums\bin\Debug\using_enums.pdb
+c:\users\gerry\documents\visual studio 2012\Projects\using_enums\using_enums\obj\Debug\using_enums.csprojResolveAssemblyReference.cache
+c:\users\gerry\documents\visual studio 2012\Projects\using_enums\using_enums\obj\Debug\using_enums.exe
+c:\users\gerry\documents\visual studio 2012\Projects\using_enums\using_enums\obj\Debug\using_enums.pdb

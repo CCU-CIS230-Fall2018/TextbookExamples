@@ -1,0 +1,5 @@
+c:\users\gerry\documents\visual studio 2012\Projects\student_class_with_methods\student_class_with_methods\bin\Debug\student_class_with_methods.exe.config
+c:\users\gerry\documents\visual studio 2012\Projects\student_class_with_methods\student_class_with_methods\bin\Debug\student_class_with_methods.exe
+c:\users\gerry\documents\visual studio 2012\Projects\student_class_with_methods\student_class_with_methods\bin\Debug\student_class_with_methods.pdb
+c:\users\gerry\documents\visual studio 2012\Projects\student_class_with_methods\student_class_with_methods\obj\Debug\student_class_with_methods.exe
+c:\users\gerry\documents\visual studio 2012\Projects\student_class_with_methods\student_class_with_methods\obj\Debug\student_class_with_methods.pdb
